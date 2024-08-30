@@ -2,7 +2,7 @@ Sales Report :
 
 Project objective:
 
-1. Create a customer performance report
+1. Create a Customer20PerformanceReport.pdf
 
 2. Conduct a comprehensive comparison between market performance and sales targets
 
